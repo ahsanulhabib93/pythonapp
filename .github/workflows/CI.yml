@@ -43,4 +43,4 @@ jobs:
         python -m pip install pylint
     - name: Analysing the code with pylint
       run: |
-        pylint ./calculator
+        pylint ./pythonapp
